@@ -28,7 +28,7 @@ The Screen Recorder App is a web-based application that enables users to record 
 ## 🛠 Installation & Usage
 1. Clone the repository:
 
- git clone `[https://github.com/umarfarook-926/screen_recorder-app.git](Git Repo)`
+ git clone https://github.com/umarfarook-926/screen_recorder-app.git
 
 2. Navigate to the project directory:
 
